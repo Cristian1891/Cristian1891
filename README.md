@@ -1,4 +1,4 @@
-# 👋 Hola, soy Cristian Raul Ovejero
+# 👋 Hola, soy Cristian Raúl Ovejero
 
 ### Full Stack Developer | React.js · Node.js · Angular · TypeScript
 
