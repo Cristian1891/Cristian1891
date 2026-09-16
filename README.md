@@ -69,4 +69,4 @@ Actualmente trabajo como **Freelance** y como **Tutor Académico en CoderHouse**
 
 ---
 
-🌎 Presidente Derqui, Buenos Aires, Argentina &nbsp;·&nbsp;
+🌎 Presidente Derqui, Buenos Aires, Argentina &nbsp;
